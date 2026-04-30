@@ -1,4 +1,4 @@
-# Hi, I'm NvkhoaDev! 👋 [![GitHub followers](https://img.shields.io/github/followers/nvk54.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nvk54?tab=followers)
+# Hi, I'm Nguyễn Vũ Khoa! 👋 [![GitHub followers](https://img.shields.io/github/followers/nvk54.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/nvk54?tab=followers)
 
 
 
@@ -20,7 +20,7 @@ My name is Nguyen Vu Khoa. I'm a Back-end developer,I am a guy from the land of 
 [![Email](https://img.shields.io/badge/Email-thenvkhoadev@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:thenvkhoadev@gmail.com)
 
 <image height="180" align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=thenvkhoadev&count_private=true&theme=radical&show_icons=true"/>
-<image height="180" alight="left" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=thenvkhoadev&layout=compact&langs_count=8&theme=radical&role=OWNER,COLLABORATOR"/>
+<image height="180" alight="left" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nvk54&layout=compact&langs_count=8&theme=radical&role=OWNER,COLLABORATOR"/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
